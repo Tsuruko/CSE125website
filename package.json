@@ -1,0 +1,23 @@
+{
+  "name": "cse125g1",
+  "version": "0.0.1",
+  "author": "CSE125Group1",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tsuruko/CSE125website"
+  },
+  "license": "MIT",
+
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.x",
+    "express3-handlebars": "*",
+  },
+  "engines": {
+    "node": "0.10.x"
+  }  
+}
