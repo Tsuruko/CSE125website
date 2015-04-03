@@ -2,3 +2,7 @@ body {
 	padding-top: 50px;
 	margin-left: 50px;
 }
+
+.modal-body {
+    max-height: 95%;
+}
