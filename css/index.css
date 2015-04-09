@@ -1,8 +1,15 @@
 body {
 	padding-top: 50px;
 	margin-left: 50px;
+	background-image: url("../images/background.jpg");
+	color: white;
 }
 
 .modal-body {
     max-height: 95%;
+}
+
+iframe {
+	min-width: 80%;
+	min-height: 100%;
 }
