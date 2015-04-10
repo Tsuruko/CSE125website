@@ -2,6 +2,8 @@ body {
 	padding-top: 50px;
 	margin-left: 50px;
 	background-image: url("../images/background.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 	color: white;
 }
 
@@ -10,6 +12,11 @@ body {
 }
 
 iframe {
+	min-width: 80%;
+	min-height: 800px;
+}
+
+embed {
 	min-width: 80%;
 	min-height: 800px;
 }
